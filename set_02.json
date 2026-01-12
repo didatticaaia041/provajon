@@ -1,6 +1,6 @@
 {
   "_base": "https://raw.githubusercontent.com/tidalcycles/Dirt-Samples/master/",
-  "bassdrum": "808/CB.WAV",
-  "snaredrum": "sd/rytm-00-hard.wav",
-  "hihat": "hh27/004_hh27hit3.wav"
+  "bd": "808/CB.WAV",
+  "sd": "sd/rytm-00-hard.wav",
+  "hh": "hh27/004_hh27hit3.wav"
 }
