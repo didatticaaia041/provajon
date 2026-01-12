@@ -1,0 +1,62 @@
+{
+    "_base": "https://raw.githubusercontent.com/didatticaaia041/provajon/main/plfd2/",
+    "bd": [
+      "Kick1.wav",
+      "Kick2.wav",
+      "Kick3.wav",
+      "Kick4.wav",
+      "Kick5.wav",
+      "Kick6.wav",
+      "Kick7.wav",
+      "Kick8.wav",
+      "KickM.wav",
+      "KickM2.wav"
+    ],
+    "sd": [
+      "Snare1.wav",
+      "Snare2.wav",
+      "Snare3.wav",
+      "Snare4.wav",
+      "Snare5.wav",
+      "Snare6.wav",
+      "Snare7.wav",
+      "Snare8.wav",
+      "Snare9.wav",
+      "Snare10.wav",
+      "SnareHardPunchy1.wav",
+      "SnareHardPunchy2.wav",
+      "SnareLV1.wav",
+      "Snarem1.wav",
+      "Snarem2.wav"
+    ],
+    "rs": ["Snarecross.wav"],
+    "sr": [
+      "snareroll1.wav",
+      "snareroll2.wav",
+      "snareroll3.wav",
+      "snareroll4.wav",
+      "snareroll5.wav"
+    ],
+    "hh": [
+      "HihatHV1.wav",
+      "HihatHV2.wav",
+      "HihatM1.wav",
+      "HihatM2.wav",
+      "HihatLv1.wav",
+      "HihatLv2.wav"
+    ],
+    "oh": ["Hihatopen1.wav", "Hihatopen2.wav"],
+    "ph": [
+      "HihatFoot1.wav",
+      "HihatFoot2.wav",
+      "HihatFootM1.wav",
+      "HihatFootM2.wav"
+    ],
+    "cr": ["Crash1.wav", "Crash2.wav"],
+    "rd": ["Ride1.wav", "Ride2.wav", "Ride3.wav", "Ride4.wav"],
+    "t1": ["RackTomHV1.wav", "RackTomHV2.wav", "RackTomHV3.wav"],
+    "t2": ["RackTomMV.wav", "RackTomMV2.wav", "RackTomMV3.wav"],
+    "t3": ["FloortomH1.wav", "FloortomH2.wav"],
+    "t4": ["FloortomM1.wav", "FloortomM2.wav"]
+
+  }
