@@ -1,0 +1,191 @@
+{
+  "rm50-ts01": {
+    "_base": "https://raw.githubusercontent.com/geikha/tidal-drum-machines/main/machines/",
+    "t1": "YamahaRM50/yamaharm50-ht/TOMS_001.wav",
+    "t2": "YamahaRM50/yamaharm50-mt/TOMS_002.wav",
+    "t3": "YamahaRM50/yamaharm50-mt/TOMS_003.wav",
+    "t4": "YamahaRM50/yamaharm50-lt/TOMS_004.wav"
+  },
+  "rm50-ts02": {
+    "_base": "https://raw.githubusercontent.com/geikha/tidal-drum-machines/main/machines/",
+    "t1": "YamahaRM50/yamaharm50-ht/TOMS_005.wav",
+    "t2": "YamahaRM50/yamaharm50-mt/TOMS_006.wav",
+    "t3": "YamahaRM50/yamaharm50-mt/TOMS_007.wav",
+    "t4": "YamahaRM50/yamaharm50-lt/TOMS_008.wav"
+  },
+  "rm50-ts03": {
+    "_base": "https://raw.githubusercontent.com/geikha/tidal-drum-machines/main/machines/",
+    "t1": "YamahaRM50/yamaharm50-ht/TOMS_009.wav",
+    "t2": "YamahaRM50/yamaharm50-ht/TOMS_010.wav",
+    "t3": "YamahaRM50/yamaharm50-mt/TOMS_011.wav",
+    "t4": "YamahaRM50/yamaharm50-lt/TOMS_012.wav"
+  },
+  "rm50-ts04": {
+    "_base": "https://raw.githubusercontent.com/geikha/tidal-drum-machines/main/machines/",
+    "t1": "YamahaRM50/yamaharm50-ht/TOMS_013.wav",
+    "t2": "YamahaRM50/yamaharm50-mt/TOMS_014.wav",
+    "t3": "YamahaRM50/yamaharm50-lt/TOMS_015.wav",
+    "t4": "YamahaRM50/yamaharm50-lt/TOMS_016.wav"
+  },
+  "rm50-ts05": {
+    "_base": "https://raw.githubusercontent.com/geikha/tidal-drum-machines/main/machines/",
+    "t1": "YamahaRM50/yamaharm50-ht/TOMS_017.wav",
+    "t2": "YamahaRM50/yamaharm50-mt/TOMS_018.wav",
+    "t3": "YamahaRM50/yamaharm50-lt/TOMS_019.wav",
+    "t4": "YamahaRM50/yamaharm50-lt/TOMS_020.wav"
+  },
+  "rm50-ts06": {
+    "_base": "https://raw.githubusercontent.com/geikha/tidal-drum-machines/main/machines/",
+    "t1": "YamahaRM50/yamaharm50-ht/TOMS_021.wav",
+    "t2": "YamahaRM50/yamaharm50-ht/TOMS_022.wav",
+    "t3": "YamahaRM50/yamaharm50-mt/TOMS_023.wav",
+    "t4": "YamahaRM50/yamaharm50-lt/TOMS_024.wav"
+  },
+  "rm50-ts07": {
+    "_base": "https://raw.githubusercontent.com/geikha/tidal-drum-machines/main/machines/",
+    "t1": "YamahaRM50/yamaharm50-ht/TOMS_025.wav",
+    "t2": "YamahaRM50/yamaharm50-ht/TOMS_026.wav",
+    "t3": "YamahaRM50/yamaharm50-mt/TOMS_027.wav",
+    "t4": "YamahaRM50/yamaharm50-lt/TOMS_028.wav"
+  },
+  "rm50-ts08": {
+    "_base": "https://raw.githubusercontent.com/geikha/tidal-drum-machines/main/machines/",
+    "t1": "YamahaRM50/yamaharm50-ht/TOMS_029.wav",
+    "t2": "YamahaRM50/yamaharm50-mt/TOMS_030.wav",
+    "t3": "YamahaRM50/yamaharm50-mt/TOMS_031.wav",
+    "t4": "YamahaRM50/yamaharm50-lt/TOMS_032.wav",
+    "t5": "YamahaRM50/yamaharm50-lt/TOMS_033.wav",
+    "t6": "YamahaRM50/yamaharm50-lt/TOMS_034.wav"
+  },
+  "rm50-ts09": {
+    "_base": "https://raw.githubusercontent.com/geikha/tidal-drum-machines/main/machines/",
+    "t1": "YamahaRM50/yamaharm50-ht/TOMS_035.wav",
+    "t2": "YamahaRM50/yamaharm50-mt/TOMS_036.wav",
+    "t3": "YamahaRM50/yamaharm50-mt/TOMS_037.wav",
+    "t4": "YamahaRM50/yamaharm50-lt/TOMS_038.wav"
+  },
+  "rm50-ts10": {
+    "_base": "https://raw.githubusercontent.com/geikha/tidal-drum-machines/main/machines/",
+    "t1": "YamahaRM50/yamaharm50-ht/TOMS_039.wav",
+    "t2": "YamahaRM50/yamaharm50-mt/TOMS_040.wav",
+    "t3": "YamahaRM50/yamaharm50-lt/TOMS_041.wav",
+    "t4": "YamahaRM50/yamaharm50-lt/TOMS_042.wav"
+  },
+  "rm50-ts11": {
+    "_base": "https://raw.githubusercontent.com/geikha/tidal-drum-machines/main/machines/",
+    "t1": "YamahaRM50/yamaharm50-ht/TOMS_043.wav",
+    "t2": "YamahaRM50/yamaharm50-mt/TOMS_044.wav",
+    "t3": "YamahaRM50/yamaharm50-mt/TOMS_045.wav",
+    "t4": "YamahaRM50/yamaharm50-lt/TOMS_046.wav"
+  },
+  "rm50-ts12": {
+    "_base": "https://raw.githubusercontent.com/geikha/tidal-drum-machines/main/machines/",
+    "t1": "YamahaRM50/yamaharm50-ht/TOMS_047.wav",
+    "t2": "YamahaRM50/yamaharm50-lt/TOMS_048.wav"
+  },
+  "rm50-ts13": {
+    "_base": "https://raw.githubusercontent.com/geikha/tidal-drum-machines/main/machines/",
+    "t1": "YamahaRM50/yamaharm50-ht/TOMS_049.wav",
+    "t2": "YamahaRM50/yamaharm50-lt/TOMS_050.wav",
+    "t3": "YamahaRM50/yamaharm50-lt/TOMS_051.wav"
+  },
+  "rm50-ts14": {
+    "_base": "https://raw.githubusercontent.com/geikha/tidal-drum-machines/main/machines/",
+    "t1": "YamahaRM50/yamaharm50-ht/TOMS_052.wav",
+    "t2": "YamahaRM50/yamaharm50-lt/TOMS_053.wav",
+    "t3": "YamahaRM50/yamaharm50-lt/TOMS_054.wav",
+    "t4": "YamahaRM50/yamaharm50-lt/TOMS_055.wav"
+  },
+  "rm50-ts15": {
+    "_base": "https://raw.githubusercontent.com/geikha/tidal-drum-machines/main/machines/",
+    "t1": "YamahaRM50/yamaharm50-ht/TOMS_056.wav",
+    "t2": "YamahaRM50/yamaharm50-mt/TOMS_057.wav",
+    "t3": "YamahaRM50/yamaharm50-lt/TOMS_058.wav",
+    "t4": "YamahaRM50/yamaharm50-lt/TOMS_059.wav"
+  },
+  "rm50-ts16": {
+    "_base": "https://raw.githubusercontent.com/geikha/tidal-drum-machines/main/machines/",
+    "t1": "YamahaRM50/yamaharm50-mt/TOMS_060.wav",
+    "t2": "YamahaRM50/yamaharm50-lt/TOMS_061.wav",
+    "t3": "YamahaRM50/yamaharm50-lt/TOMS_062.wav",
+    "t4": "YamahaRM50/yamaharm50-lt/TOMS_063.wav"
+  },
+  "rm50-ts17": {
+    "_base": "https://raw.githubusercontent.com/geikha/tidal-drum-machines/main/machines/",
+    "t1": "YamahaRM50/yamaharm50-ht/TOMS_064.wav",
+    "t2": "YamahaRM50/yamaharm50-mt/TOMS_065.wav",
+    "t3": "YamahaRM50/yamaharm50-lt/TOMS_066.wav",
+    "t4": "YamahaRM50/yamaharm50-lt/TOMS_067.wav"
+  },
+  "rm50-ts18": {
+    "_base": "https://raw.githubusercontent.com/geikha/tidal-drum-machines/main/machines/",
+    "t1": "YamahaRM50/yamaharm50-ht/TOMS_068.wav",
+    "t2": "YamahaRM50/yamaharm50-mt/TOMS_069.wav",
+    "t3": "YamahaRM50/yamaharm50-mt/TOMS_070.wav",
+    "t4": "YamahaRM50/yamaharm50-lt/TOMS_071.wav"
+  },
+  "rm50-ts19": {
+    "_base": "https://raw.githubusercontent.com/geikha/tidal-drum-machines/main/machines/",
+    "t1": "YamahaRM50/yamaharm50-ht/TOMS_072.wav",
+    "t2": "YamahaRM50/yamaharm50-mt/TOMS_073.wav",
+    "t3": "YamahaRM50/yamaharm50-mt/TOMS_074.wav",
+    "t4": "YamahaRM50/yamaharm50-lt/TOMS_075.wav"
+  },
+  "rm50-ts20": {
+    "_base": "https://raw.githubusercontent.com/geikha/tidal-drum-machines/main/machines/",
+    "t1": "YamahaRM50/yamaharm50-mt/TOMS_076.wav"
+  },
+  "rm50-ts21": {
+    "_base": "https://raw.githubusercontent.com/geikha/tidal-drum-machines/main/machines/",
+    "t1": "YamahaRM50/yamaharm50-ht/TOMS_077.wav",
+    "t2": "YamahaRM50/yamaharm50-mt/TOMS_078.wav",
+    "t3": "YamahaRM50/yamaharm50-lt/TOMS_079.wav"
+  },
+  "rm50-ts22": {
+    "_base": "https://raw.githubusercontent.com/geikha/tidal-drum-machines/main/machines/",
+    "t1": "YamahaRM50/yamaharm50-mt/TOMS_080.wav",
+    "t2": "YamahaRM50/yamaharm50-mt/TOMS_081.wav",
+    "t3": "YamahaRM50/yamaharm50-lt/TOMS_082.wav",
+    "t4": "YamahaRM50/yamaharm50-lt/TOMS_083.wav",
+    "t5": "YamahaRM50/yamaharm50-lt/TOMS_084.wav"
+  },
+  "rm50-ts23": {
+    "_base": "https://raw.githubusercontent.com/geikha/tidal-drum-machines/main/machines/",
+    "t1": "YamahaRM50/yamaharm50-ht/TOMS_085.wav",
+    "t2": "YamahaRM50/yamaharm50-mt/TOMS_086.wav",
+    "t3": "YamahaRM50/yamaharm50-lt/TOMS_087.wav",
+    "t4": "YamahaRM50/yamaharm50-lt/TOMS_088.wav"
+  },
+  "rm50-ts24": {
+    "_base": "https://raw.githubusercontent.com/geikha/tidal-drum-machines/main/machines/",
+    "t1": "YamahaRM50/yamaharm50-ht/TOMS_089.wav",
+    "t2": "YamahaRM50/yamaharm50-mt/TOMS_090.wav",
+    "t3": "YamahaRM50/yamaharm50-mt/TOMS_091.wav",
+    "t4": "YamahaRM50/yamaharm50-lt/TOMS_092.wav"
+  },
+  "rm50-ts25": {
+    "_base": "https://raw.githubusercontent.com/geikha/tidal-drum-machines/main/machines/",
+    "t1": "YamahaRM50/yamaharm50-mt/TOMS_093.wav",
+    "t2": "YamahaRM50/yamaharm50-lt/TOMS_094.wav",
+    "t3": "YamahaRM50/yamaharm50-lt/TOMS_095.wav",
+    "t4": "YamahaRM50/yamaharm50-lt/TOMS_096.wav"
+  },
+  "rm50-ts26": {
+    "_base": "https://raw.githubusercontent.com/geikha/tidal-drum-machines/main/machines/",
+    "t1": "YamahaRM50/yamaharm50-mt/TOMS_097.wav",
+    "t2": "YamahaRM50/yamaharm50-mt/TOMS_098.wav",
+    "t3": "YamahaRM50/yamaharm50-lt/TOMS_099.wav",
+    "t4": "YamahaRM50/yamaharm50-lt/TOMS_100.wav"
+  },
+  "rm50-ts27": {
+    "_base": "https://raw.githubusercontent.com/geikha/tidal-drum-machines/main/machines/",
+    "t1": "YamahaRM50/yamaharm50-ht/TOMS_101.wav",
+    "t2": "YamahaRM50/yamaharm50-mt/TOMS_102.wav",
+    "t3": "YamahaRM50/yamaharm50-lt/TOMS_103.wav",
+    "t4": "YamahaRM50/yamaharm50-lt/TOMS_104.wav",
+    "t5": "YamahaRM50/yamaharm50-lt/TOMS_105.wav",
+    "t6": "YamahaRM50/yamaharm50-lt/TOMS_106.wav",
+    "t7": "YamahaRM50/yamaharm50-lt/TOMS_107.wav",
+    "t8": "YamahaRM50/yamaharm50-lt/TOMS_108.wav"
+  }
+}
