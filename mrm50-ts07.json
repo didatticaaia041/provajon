@@ -1,1 +1,7 @@
-
+{
+    "_base": "https://raw.githubusercontent.com/geikha/tidal-drum-machines/main/machines/",
+    "t1": "YamahaRM50/yamaharm50-ht/TOMS_025.wav",
+    "t2": "YamahaRM50/yamaharm50-ht/TOMS_026.wav",
+    "t3": "YamahaRM50/yamaharm50-mt/TOMS_027.wav",
+    "t4": "YamahaRM50/yamaharm50-lt/TOMS_028.wav"
+  }
