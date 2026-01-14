@@ -1,0 +1,72 @@
+{
+    "_base": "https://raw.githubusercontent.com/didatticaaia041/provajon/main/vdc/",
+    "bd": [
+      "kick hi 1.wav",
+      "kick high 2.wav",
+      "kick loud 1.wav",
+      "kick loud 2.wav",
+      "kick low 1.wav",
+      "kick low 2.wav",
+      "kick med 1.wav",
+      "kick med 2.wav"
+    ],
+    "sd": [
+      "snare high 1.wav",
+      "snare high 2.wav",
+      "snare med 1.wav",
+      "snare med 2.wav",
+      "snare low 1.wav",
+      "snare low 2.wav"
+    ],
+    "sr": [
+      "snare roll 1.wav",
+      "snare roll 2.wav",
+      "snare roll 3.wav",
+      "snare roll 4.wav"
+    ],
+    "hh": [
+      "hihat closed 1.wav",
+      "hihat closed 2.wav",
+      "hihat closed 3.wav",
+      "hihat closed 4.wav",
+      "hihat med 1.wav",
+      "hihat med 2.wav"
+    ],
+    "oh": [
+      "hihat open 1.wav",
+      "hihat open 2.wav",
+      "hihat open all the way 1.wav",
+      "hihat open all the way 2.wav"
+    ],
+    "hp": [
+      "hihat foot 1.wav",
+      "hihat foot 2.wav"
+    ],
+    "rd": [
+      "ride 1.wav",
+      "ride 2.wav"
+    ],
+    "cr": [
+      "crash ride.wav"
+    ],
+    "t1": [
+      "tom high 1.wav",
+      "tom high 2.wav",
+      "tom med 1.wav",
+      "tom med 2.wav"
+    ],
+    "t2": [
+      "tom low 1.wav",
+      "tom low 2.wav",
+      "floor tom hi 1.wav",
+      "floor tom hi 2.wav"
+    ],
+    "t3": [
+      "floor tom med 1.wav",
+      "floor tom med 2.wav"
+    ],
+    "t4": [
+      "floor tom low 1.wav",
+      "floor tom low 2.wav"
+    ]
+  }

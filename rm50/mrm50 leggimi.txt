@@ -1,0 +1,18 @@
+Questa directory contiene i file json nel formato
+{
+  "_base": "https://raw.githubusercontent.com/tidalcycles/Dirt-Samples/master/",
+  "bassdrum": "bd/BT0AADA.wav",
+  "snaredrum": "sd/rytm-01-classic.wav",
+  "hihat": "hh27/000_hh27closedhh.wav"
+}
+per strudel.
+Ogni sample fa riferimento alla RM50 delle tidal-drum-machine presenti in https://github.com/geikha/tidal-drum-machines.
+
+Per la RM50 sono predisposti le cartelle _bd, _sd, _ht, _mt, _lt.
+
+Tutti i file .json relativi ai diversi drum sets sono ricavati anche tramite AI con la seguente regola:
+ogni set ha sample con numeri sequnziali, in tal modo viene stabilito il sample di appartenenza ad un -tsxy.
+
+Per comprendere la regola basta analizzare i sample di _ht e vedere che i numeri di campioni nella cartella non sono sequenziale e quindi, bisogna cercarli in _mt e _lt fino a che il numero seguente non ricade in _ht => li inizia un nuovo -tsx(y + 1)
+
+Alcuni samples, seppur sequenziali, sembrano appartenere a categorie diverse.
